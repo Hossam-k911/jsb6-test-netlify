@@ -1,0 +1,11 @@
+ng build 
+
+href ./
+domain   hossam-nel;tify.com/auith
+
+use hash = true 
+
+ hossam-neltify.com/#/auth
+
+
+ netlify init 
