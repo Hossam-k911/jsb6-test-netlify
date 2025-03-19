@@ -1,0 +1,11 @@
+
+[build]
+  command = "ng build"
+  publish = "dist/jsb6-test"
+
+[[redirects]]
+ from = "/*"
+    to = "/index.html"
+    status = 200
+
+  
